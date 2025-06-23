@@ -1,0 +1,6 @@
+{
+  "name": "Text-to-Speech Synthesizer",
+  "description": "A web application that converts text into speech. This version uses the browser's built-in Web Speech API for synthesis, as the specific Gemini TTS model requested is not listed in the provided API guidelines. The application demonstrates UI/UX best practices and includes a basic setup for Gemini API interaction for other potential features.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
